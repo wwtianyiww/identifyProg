@@ -1,0 +1,19 @@
+# PlatformIO
+.pio
+.vscode/
+.clang_complete
+.gcc-flags.json
+
+# IDEs
+.idea/
+
+# Build artifacts
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+
+# OS files
+.DS_Store
+Thumbs.db
